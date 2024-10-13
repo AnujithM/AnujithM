@@ -4,10 +4,7 @@ I’m Anujith. I’m currently a **Research Associate 2** at the **I3D Lab** of 
 
 You can know more about me via:
 
-- [My Website](https://anujithm.github.io/)
-- [Google Scholar](https://scholar.google.com/citations?user=4-55tyYAAAAJ&hl=en)
-- [CV](https://anujithm.github.io/files/CV_Muraleedharan_Anujith.pdf)
-- [LinkedIn](https://www.linkedin.com/)
+[My Website](https://anujithm.github.io/) / [Google Scholar](https://scholar.google.com/citations?user=4-55tyYAAAAJ&hl=en) / [CV](https://anujithm.github.io/files/CV_Muraleedharan_Anujith.pdf) / [LinkedIn](https://www.linkedin.com/)
 
 
 <!---
