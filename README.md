@@ -1,6 +1,6 @@
 # Hi 👋
 
-I’m Anujith. I’m currently a **Research Associate 2** at the **I3D Lab** of the Indian Institute of Science, Bangalore. I work with Prof. Pradipta Biswas. My research interests include **Human-Robot Interaction (HRI)**, **Reinforcement Learning**, and **Control for Robotics**.
+I am currently working as a Research Associate under the guidance of M. Hanmandlu, IIT Delhi. Previously, I held the position of Research Associate 2 at the I3D lab of the Indian Institute of Science, Bangalore, guided by Pradipta Biswas. My research interests include **Human-Robot Interaction (HRI)**, **Reinforcement Learning**, and **Control for Robotics**.
 
 You can know more about me via:
 
