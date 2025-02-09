@@ -9,6 +9,7 @@ I am currently working as a Research Associate under the guidance of M. Hanmandl
 ![ROS](https://img.shields.io/badge/ROS-%230A66C2.svg?&style=flat-square&logo=ros&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white)
+![PyBullet](https://img.shields.io/badge/PyBullet-%23FF4500.svg?&style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?&style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 
