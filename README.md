@@ -9,7 +9,7 @@ You can know more about me via:
 [![CV](https://img.shields.io/badge/My%20CV-%23FF9900.svg?&style=flat-square)](https://drive.google.com/file/d/113yJf4URjekWOjwXVb_SktFmgdD_g5xc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square)](https://www.linkedin.com/in/anujith-muraleedharan/)
 
-## 🛠 **Technical Skills**
+## 🛠 **Skills**
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?&style=flat-square&logo=mathworks&logoColor=white)
